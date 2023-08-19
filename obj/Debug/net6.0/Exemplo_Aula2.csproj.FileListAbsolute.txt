@@ -1,0 +1,15 @@
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\bin\Debug\net6.0\Exemplo_Aula2.exe
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\bin\Debug\net6.0\Exemplo_Aula2.deps.json
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\bin\Debug\net6.0\Exemplo_Aula2.runtimeconfig.json
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\bin\Debug\net6.0\Exemplo_Aula2.dll
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\bin\Debug\net6.0\Exemplo_Aula2.pdb
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.csproj.AssemblyReference.cache
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.AssemblyInfoInputs.cache
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.AssemblyInfo.cs
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.csproj.CoreCompileInputs.cache
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.dll
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\refint\Exemplo_Aula2.dll
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.pdb
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\Exemplo_Aula2.genruntimeconfig.cache
+C:\Users\rfrossard\Documents\UVV\3° Período\Módulo 1\Desenvolvimento Web - Back End\repositorio_exemplo\Exemplo_Aula2\obj\Debug\net6.0\ref\Exemplo_Aula2.dll
